@@ -12,7 +12,7 @@ Creating a model to select 200 new oil weels
 
 ---
 
-## Processo
+## Process
 - Data Cleaning
 - Data Exploration
 - Data Visualization
