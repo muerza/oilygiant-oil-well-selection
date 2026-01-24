@@ -2,6 +2,7 @@
 
 ## Objetive
 Creating a model to select 200 locations for new oil wells
+
 ---
 
 ## Data Structure
