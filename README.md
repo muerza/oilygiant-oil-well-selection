@@ -84,21 +84,3 @@ Choose the region that:
 ```bash
 pip install -r requirements.txt
 ```
-
-2) Run the notebook:
-```bash
-jupyter notebook
-```
-
----
-
-## Suggested repo name 🏷️
-**Recommended:** `oilygiant-oil-well-selection`  
-Alternatives:
-- `oilygiant-well-selection-risk`
-- `oil-well-selection-bootstrapping`
-
----
-
-## Author ✍️
-Fernando Muerza
