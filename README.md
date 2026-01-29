@@ -57,7 +57,7 @@ Choose the region that:
 
 ## Profit & risk results (bootstrapping) 📈
 
-| Region | Avg profit (USD) | 2.5% quantile | 97.5% quantile | Loss probability | ROI  | Effective ROI |
+| Region | Avg profit (USD) | 2.5% quantile | 97.5% quantile | Loss probability | ROI | Effective ROI |
 |---|---:|---:|---:|---:|---:|---:|
 | geo_data_0 | $4,089,561.93 | $-963,570.86 | $9,616,291.73 | 5.20% | 4.09% | 3.88% |
 | geo_data_1 | $4,714,887.65 | $523,824.95 | $9,114,850.35 | 1.20% | 4.71% | 4.66% |
